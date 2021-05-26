@@ -21,10 +21,6 @@
   "fan_banner_id": "375355947059393_375355980392723",
   "fan_interstitial_id": "375355947059393_375355973726057",
   "fan_native_id": "375355947059393_375355977059390",
-
-  "mopub_banner_id": "dedf4d89013b4a95a5629926da93452f",
-  "mopub_interstitial_id": "4b7cbd7e320d46399a5869f882ebc5ab",
-  "mopub_native_id": "97a8f123f578432ebad60dae30d3fcd0",
   
   "startapp_app_id": "211674635",
   
@@ -33,7 +29,6 @@
   "primary_ads": "ADMOB",
   "list_ads": [
       "ADMOB",
-      "MOPUB",
       "STARTAPP"
     ]
 }
