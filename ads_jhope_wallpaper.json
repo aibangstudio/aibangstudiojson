@@ -1,0 +1,39 @@
+{
+  "username": "pakukate",
+  "new_username": "pawpapapa/btb",
+  "section_mode": true,
+  "album": [
+    "Jhope"
+  ],
+  "init_jumlah_photo": 350,
+  "pub_id": "pub-2645249444311791",
+  "app_id": "ca-app-pub-2645249444311791~6973189652",
+  "admob_banner_id": "ca-app-pub-2645249444311791/9024637928",
+  "admob_interstitial_id": "ca-app-pub-2645249444311791/5085392916",
+  "admob_native_id": "ca-app-pub-2645249444311791/9129591465",
+
+  "admob_hpk_1": "fashion",
+  "admob_hpk_2": "health insurance",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "hotel booking",
+  "admob_hpk_5": "kpop",
+
+  "fan_banner_id": "375355947059393_375355980392723",
+  "fan_interstitial_id": "375355947059393_375355973726057",
+  "fan_native_id": "375355947059393_375355977059390",
+
+  "mopub_banner_id": "dedf4d89013b4a95a5629926da93452f",
+  "mopub_interstitial_id": "4b7cbd7e320d46399a5869f882ebc5ab",
+  "mopub_native_id": "97a8f123f578432ebad60dae30d3fcd0",
+  
+  "startapp_app_id": "211674635",
+  
+  "interstitial_inverval": 3,
+  
+  "primary_ads": "ADMOB",
+  "list_ads": [
+      "ADMOB",
+      "MOPUB",
+      "STARTAPP"
+    ]
+}
