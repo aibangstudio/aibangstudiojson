@@ -1,0 +1,34 @@
+{
+  "username": "pakukate",
+  "new_username": "pawpapapa/btb",
+  "section_mode": true,
+  "album": [
+    "Jin"
+  ],
+  "init_jumlah_photo": 350,
+  "pub_id": "pub-2645249444311791",
+  "app_id": "ca-app-pub-2645249444311791~4481923531",
+  "admob_banner_id": "ca-app-pub-2645249444311791/6590223885",
+  "admob_interstitial_id": "ca-app-pub-2645249444311791/6398652198",
+  "admob_native_id": "ca-app-pub-2645249444311791/2459407186",
+
+  "admob_hpk_1": "kpop",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "beauty",
+  "admob_hpk_4": "plastic surgery",
+  "admob_hpk_5": "health insurance",
+
+  "fan_banner_id": "205363357762260_205363404428922",
+  "fan_interstitial_id": "205363357762260_205363411095588",
+  "fan_native_id": "205363357762260_205363401095589",
+
+  "startapp_app_id": "211154920",
+  
+  "interstitial_inverval": 3,
+  
+  "primary_ads": "ADMOB",
+  "list_ads": [
+      "ADMOB",
+      "STARTAPP"
+    ]
+}
