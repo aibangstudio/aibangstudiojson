@@ -1,0 +1,34 @@
+{
+  "username": "kbrigmanlean83",
+  "new_username": "pawpapapa/btb",
+  "section_mode": true,
+  "album": [
+    "BTS", "V", "Jungkook", "Jimin", "Jin", "Suga", "JHope", "RM"
+  ],
+  
+  "init_jumlah_photo": 300,
+  
+  "pub_id": "pub-2645249444311791",
+  "app_id": "ca-app-pub-2645249444311791~7362043834",
+  "admob_banner_id": "ca-app-pub-2645249444311791/7780569245",
+  "admob_interstitial_id": "ca-app-pub-2645249444311791/2528242564",
+  "admob_native_id": "ca-app-pub-2645249444311791/7588997550",
+  "admob_rewarded_id": "",
+  "admob_hpk_1": "insurance",
+  "admob_hpk_2": "jago",
+  "admob_hpk_3": "telkomsel",
+  "admob_hpk_4": "jenius",
+  "admob_hpk_5": "bts",
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+  "startapp_app_id": "205390742",
+  "interstitial_inverval": 5,
+  "primary_ads": "ADMOB",
+  "list_ads": [
+      "ADMOB",
+      "STARTAPP"
+    ],
+  "force_redirect": false,
+  "package_name_redirect": ""
+}
