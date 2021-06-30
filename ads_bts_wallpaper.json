@@ -3,7 +3,7 @@
   "new_username": "nhali1233/stb",
   "section_mode": true,
   "album": [
-    "BTS", "V", "Jungkook", "Jimin", "Jin", "Suga", "JHope", "RM"
+    "BTS", "FANART", "V", "Jungkook", "Jimin", "Jin", "Suga", "JHope", "RM"
   ],
   
   "init_jumlah_photo": 250,
@@ -27,6 +27,7 @@
   "primary_ads": "ADMOB",
   "list_ads": [
       "ADMOB",
+      "UNITY",
       "STARTAPP"
     ],
   "force_redirect": false,
