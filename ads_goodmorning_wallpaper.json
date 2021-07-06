@@ -22,12 +22,13 @@
   
   "startapp_app_id": "202169916",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 4,
 
   "primary_ads": "ADMOB",
   
   "list_ads": [
       "ADMOB",
+      "UNITY",
       "STARTAPP"
     ],
   
