@@ -1,11 +1,11 @@
 {
-  "username": "pakukate",
-  "new_username": "pawpapapa/btb",
+  "username": "kbrigmanlean83",
+  "new_username": "nhali1233/stb",
   "section_mode": true,
   "album": [
     "Jungkook"
   ],
-  "init_jumlah_photo": 350,
+  "init_jumlah_photo": 250,
   "pub_id": "pub-2645249444311791",
   "app_id": "ca-app-pub-2645249444311791~2814373242",
   "admob_banner_id": "ca-app-pub-2645249444311791/1122336131",
@@ -30,6 +30,11 @@
   "primary_ads": "ADMOB",
   "list_ads": [
       "ADMOB",
+      "UNITY",
       "STARTAPP"
-  ]
+  ],
+  
+  "unity_id": "4208107",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android"
 }
