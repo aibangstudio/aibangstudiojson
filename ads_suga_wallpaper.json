@@ -1,0 +1,37 @@
+{
+  "username": "kbrigmanlean83",
+  "new_username": "nhali1233/btb",
+  "section_mode": true,
+  "album": [
+    "Suga"
+  ],
+  "init_jumlah_photo": 250,
+  "pub_id": "pub-2645249444311791",
+  "app_id": "ca-app-pub-2645249444311791~5439959599",
+  "admob_banner_id": "ca-app-pub-2645249444311791/8700354238",
+  "admob_interstitial_id": "ca-app-pub-2645249444311791/4761109223",
+  "admob_native_id": "ca-app-pub-2645249444311791/8508782543",
+
+  "admob_hpk_1": "fashion",
+  "admob_hpk_2": "kpop",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "kpop",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "737634403533962_737636610200408",
+  "fan_interstitial_id": "737634403533962_737636026867133",
+  "fan_native_id": "737634403533962_737636460200423",
+  "startapp_app_id": "210684319",
+  "interstitial_inverval": 4,
+
+  "primary_ads": "ADMOB",
+  "list_ads": [
+      "ADMOB",
+      "UNITY",
+      "STARTAPP"
+    ],
+  
+  "unity_id": "4211423",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android"
+}
