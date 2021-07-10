@@ -1,11 +1,11 @@
 {
-  "username": "pakukate",
-  "new_username": "pawpapapa/btb",
+  "username": "kbrigmanlean83",
+  "new_username": "nhlim1233/stb",
   "section_mode": true,
   "album": [
     "Jin"
   ],
-  "init_jumlah_photo": 350,
+  "init_jumlah_photo": 250,
   "pub_id": "pub-2645249444311791",
   "app_id": "ca-app-pub-2645249444311791~4481923531",
   "admob_banner_id": "ca-app-pub-2645249444311791/6590223885",
@@ -21,14 +21,22 @@
   "fan_banner_id": "205363357762260_205363404428922",
   "fan_interstitial_id": "205363357762260_205363411095588",
   "fan_native_id": "205363357762260_205363401095589",
+  
+  "mopub_banner_id": "ae1f9b2fd7a64e7fa98b87efd9df6599",
+  "mopub_interstitial_id": "800b95480b1b47fd87f4dbf33af79357",
+  "mopub_native_id": "146f4ee629a345a5a944d3a0c0b2fa53",
 
   "startapp_app_id": "211154920",
   
-  "interstitial_inverval": 3,
+  "interstitial_inverval": 4,
   
   "primary_ads": "ADMOB",
   "list_ads": [
       "ADMOB",
+      "UNITY",
       "STARTAPP"
-    ]
+    ],
+  "unity_id": "4211695",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android"
 }
