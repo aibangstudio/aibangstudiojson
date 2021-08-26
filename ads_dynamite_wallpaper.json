@@ -1,0 +1,28 @@
+{
+
+  "username": "riefcoolzz",
+  "album": [
+    "Gaming"
+  ],
+  "init_jumlah_photo": 50,
+  "pub_id": "pub-2645249444311791",
+  "app_id": "ca-app-pub-2645249444311791~4973972030",
+  "admob_banner_id": "ca-app-pub-2645249444311791/5685925079",
+  "admob_interstitial_id": "ca-app-pub-2645249444311791/7408563682",
+  "admob_native_id": "ca-app-pub-2645249444311791/7216991993",
+
+  "admob_hpk_1": "kpop",
+  "admob_hpk_2": "music",
+  "admob_hpk_3": "bts",
+  "admob_hpk_4": "dynamite",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "interstitial_inverval": 4,
+
+  "primary_ads": "ADMOB",
+  "content_mode": false
+}
