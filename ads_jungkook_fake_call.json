@@ -1,0 +1,26 @@
+{
+  "Iklan": [
+    {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=",
+      "appid": "pub-2645249444311791",
+      "admobappid": "ca-app-pub-2645249444311791~5429590347",
+      "interid": "ca-app-pub-2645249444311791/5238018653",
+      "nativeid": "ca-app-pub-2645249444311791/2611855315",
+      "startappid": "",
+      "inter_splash": "1",
+      "pengaturan_iklan": "1",
+      "deskripsi_update": "Update app to get new features of this app. Thank you",
+      "link_update": "https://www.google.com/",
+      "version_app": 1,
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "fan_native": "",
+      "hpk_admob1": "bts",
+      "hpk_admob2": "fashion",
+      "hpk_admob3": "car",
+      "hpk_admob4": "kpop",
+      "hpk_admob5": "plastic surgery"
+    }
+  ]
+}
