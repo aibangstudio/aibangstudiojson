@@ -5,7 +5,7 @@
   "album": [
     "RM"
   ],
-  "init_jumlah_photo": 350,
+  "init_jumlah_photo": 400,
   "pub_id": "pub-2645249444311791",
   "app_id": "ca-app-pub-2645249444311791~4008202628",
   "admob_banner_id": "ca-app-pub-2645249444311791/8362048741",
@@ -24,7 +24,7 @@
 
   "startapp_app_id": "200165675",
   
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 5,
   
   "primary_ads": "ADMOB",
   "list_ads": [
