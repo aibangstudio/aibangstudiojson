@@ -5,7 +5,7 @@
   "album": [
     "Suga"
   ],
-  "init_jumlah_photo": 350,
+  "init_jumlah_photo": 400,
   "pub_id": "pub-2645249444311791",
   "app_id": "ca-app-pub-2645249444311791~5439959599",
   "admob_banner_id": "ca-app-pub-2645249444311791/8700354238",
@@ -22,7 +22,7 @@
   "fan_interstitial_id": "737634403533962_737636026867133",
   "fan_native_id": "737634403533962_737636460200423",
   "startapp_app_id": "210684319",
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
