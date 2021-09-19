@@ -3,10 +3,10 @@
   "new_username": "nhali1233/stb",
   "section_mode": true,
   "album": [
-    "BTS", "V", "Jungkook", "Jimin", "Jin", "Suga", "JHope", "RM", "FANART"
+    "BTS", "V", "Jungkook", "Jimin", "Jin", "Suga", "JHope", "RM"
   ],
   
-  "init_jumlah_photo": 350,
+  "init_jumlah_photo": 400,
   
   "pub_id": "pub-2645249444311791",
   "app_id": "ca-app-pub-2645249444311791~7362043834",
