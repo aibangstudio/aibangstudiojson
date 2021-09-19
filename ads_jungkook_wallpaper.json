@@ -5,7 +5,7 @@
   "album": [
     "Jungkook"
   ],
-  "init_jumlah_photo": 350,
+  "init_jumlah_photo": 400,
   "pub_id": "pub-2645249444311791",
   "app_id": "ca-app-pub-2645249444311791~2814373242",
   "admob_banner_id": "ca-app-pub-2645249444311791/1122336131",
@@ -25,7 +25,7 @@
   
   "startapp_app_id": "201080973",
   
-  "interstitial_inverval": 6,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
