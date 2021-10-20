@@ -3,10 +3,10 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_inter": "",
-      "admob_native": "",
+      "admob_inter": "ca-app-pub-2645249444311791/6677000782",
+      "admob_native": "ca-app-pub-2645249444311791/4050837443",
       "startappid": "",
-      "select_ads": "APPLOVIN",
+      "select_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
