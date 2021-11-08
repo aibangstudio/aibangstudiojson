@@ -27,8 +27,7 @@
   "primary_ads": "ADMOB",
   "list_ads": [
       "ADMOB",
-      "UNITY",
-      "STARTAPP"
+      "UNITY"
     ],
   "force_redirect": false,
   "package_name_redirect": "",
