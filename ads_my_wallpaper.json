@@ -1,9 +1,9 @@
 {
-  "username": "ibang23",
+  "username": "riefcoolzz",
   "album": [
-    "Parallax"
+    "Naruto", "One Piece", "Dragon Ball", "Fairy Tail", "Attack On Titan", "Black Clover", "Death Note"
   ],
-  "init_jumlah_photo": 100,
+  "init_jumlah_photo": 50,
   "pub_id": "",
   "app_id": "",
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
@@ -15,11 +15,7 @@
   "admob_hpk_3": "",
   "admob_hpk_4": "",
   "admob_hpk_5": "",
-
-  "fan_banner_id": "",
-  "fan_interstitial_id": "",
-  "fan_native_id": "",
-
+  
   "startapp_app_id": "21077",
 
   "unity_id": "4211073",
@@ -30,9 +26,6 @@
 
   "primary_ads": "ADMOB",
   "list_ads": [
-    "UNITY",
-    "ADMOB",
-    "STARTAPP",
-    "FAN"
+    "ADMOB"
   ]
 }
