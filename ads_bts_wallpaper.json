@@ -25,7 +25,7 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
   "startapp_app_id": "205390742",
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 7,
   "primary_ads": "ADMOB",
   "list_ads": [
       "ADMOB",
