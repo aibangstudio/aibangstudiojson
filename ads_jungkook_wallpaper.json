@@ -30,8 +30,7 @@
 
   "primary_ads": "ADMOB",
   "list_ads": [
-      "ADMOB",
-      "UNITY"
+      "STARTAPP"
   ],
   
   "unity_id": "4208107",
