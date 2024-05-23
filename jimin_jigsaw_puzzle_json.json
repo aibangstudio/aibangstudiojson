@@ -13,12 +13,13 @@
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
   "unity_rewarded": "Rewarded_Android",
-  "applovin_sdk_key": "",
-  "applovin_banner_id": "",
-  "applovin_inter_id": "",
-  "applovin_rewarded_id": "",
+  "applovin_sdk_key": "crI7e1z8XtkKm_3Gsp4q9ls8PvV0atxi2hPQOpfAaJgI1c7e7hiSK2dCO8anXCzezaOJh6BnUZmDcblQTC0JAw",
+  "applovin_banner_id": "e0c1455becd8d33d",
+  "applovin_inter_id": "d9ad66eecfcc49b9",
+  "applovin_rewarded_id": "2032e1607483b597",
   "interstitial_inverval": 5,
   "list_ads": [
-      "ADMOB"
+      "ADMOB",
+      "APPLOVIN"
     ]
 }
