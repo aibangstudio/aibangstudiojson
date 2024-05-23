@@ -1,0 +1,24 @@
+{
+  "username": "nhali1233/puzzlebts",
+  "albums": [
+    "puzzlejimin1"
+  ]
+  "admob_banner_id": "ca-app-pub-6556970222421567/8025082565",
+  "admob_interstitial_id": "ca-app-pub-6556970222421567/6678095892",
+  "admob_native_id": "",
+  "admob_rewarded_id": "ca-app-pub-6556970222421567/6712000892",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-6556970222421567/4989857120",
+  "unity_id": "1234567",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "unity_rewarded": "Rewarded_Android",
+  "applovin_sdk_key": "",
+  "applovin_banner_id": "",
+  "applovin_inter_id": "",
+  "applovin_rewarded_id": "",
+  "interstitial_inverval": 5,
+  "list_ads": [
+      "ADMOB"
+    ]
+}
