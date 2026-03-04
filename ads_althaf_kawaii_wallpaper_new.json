@@ -23,8 +23,7 @@
   "interstitial_inverval": 4,
 
   "list_ads": [
-    "ADMOB",
-    "UNITY"
+    "ADMOB"
   ],
 
   "unity_id": "6057804",
