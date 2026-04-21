@@ -4,19 +4,19 @@
   "section_mode": true,
   "album": [
     {
-      "name": "kawaii",
+      "name": "Kawaii",
       "init_jumlah_photo": 500
     },
     {
-      "name": "princess",
+      "name": "Princess",
       "init_jumlah_photo": 50
     },
     {
-      "name": "capybara",
+      "name": "Capybara",
       "init_jumlah_photo": 50
     },
     {
-      "name": "bear",
+      "name": "Bear",
       "init_jumlah_photo": 50
     }
   ],
