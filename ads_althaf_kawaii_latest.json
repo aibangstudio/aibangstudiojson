@@ -10,6 +10,14 @@
     {
       "name": "princess",
       "init_jumlah_photo": 50
+    },
+    {
+      "name": "capybara",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "bear",
+      "init_jumlah_photo": 50
     }
   ],
   "admob_banner_id": "ca-app-pub-6556970222421567/9879235920",
