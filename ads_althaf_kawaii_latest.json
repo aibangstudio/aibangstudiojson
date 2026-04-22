@@ -18,6 +18,14 @@
     {
       "name": "Bear",
       "init_jumlah_photo": 50
+    },
+    {
+      "name": "Cat",
+      "init_jumlah_photo": 150
+    },
+    {
+      "name": "Duck",
+      "init_jumlah_photo": 50
     }
   ],
   "show_interstitial_in_list": false,
