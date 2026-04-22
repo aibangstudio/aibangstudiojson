@@ -25,7 +25,11 @@
     },
     {
       "name": "Duck",
-      "init_jumlah_photo": 50
+      "init_jumlah_photo": 100
+    },
+    {
+      "name": "Bunny",
+      "init_jumlah_photo": 100
     }
   ],
   "show_interstitial_in_list": false,
