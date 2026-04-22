@@ -20,6 +20,7 @@
       "init_jumlah_photo": 50
     }
   ],
+  "show_interstitial_in_list": false,
   "admob_banner_id": "ca-app-pub-6556970222421567/9879235920",
   "admob_interstitial_id": "ca-app-pub-6556970222421567/2363707987",
   "admob_native_id": "ca-app-pub-6556970222421567/7631499070",
