@@ -8,8 +8,8 @@
       "init_jumlah_photo": 500
     },
     {
-      "name": "Princess",
-      "init_jumlah_photo": 50
+      "name": "Girly",
+      "init_jumlah_photo": 100
     },
     {
       "name": "Capybara",
@@ -30,6 +30,10 @@
     {
       "name": "Bunny",
       "init_jumlah_photo": 100
+    },
+    {
+      "name": "Princess",
+      "init_jumlah_photo": 50
     }
   ],
   "show_interstitial_in_list": false,
