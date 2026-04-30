@@ -5,12 +5,12 @@
   "album": [
     "pooh"
   ],
-  "init_jumlah_photo": 150,
+  "init_jumlah_photo": 200,
   "admob_banner_id": "ca-app-pub-5768616473271728/3336989326",
   "admob_interstitial_id": "ca-app-pub-5768616473271728/2757053754",
   "admob_native_id": "",
   "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "",
+  "admob_open_app_id": "ca-app-pub-5768616473271728~9990027585",
 
   "admob_hpk_1": "kawaii",
   "admob_hpk_2": "cute",
