@@ -4,35 +4,35 @@
   "section_mode": true,
   "album": [
     {
-      "name": "kawaii",
+      "name": "Kawaii",
       "init_jumlah_photo": 500
     },
     {
-      "name": "girly",
+      "name": "Girly",
       "init_jumlah_photo": 100
     },
     {
-      "name": "capybara",
+      "name": "Capybara",
       "init_jumlah_photo": 50
     },
     {
-      "name": "bear",
+      "name": "Bear",
       "init_jumlah_photo": 50
     },
     {
-      "name": "cat",
+      "name": "Cat",
       "init_jumlah_photo": 150
     },
     {
-      "name": "duck",
+      "name": "Duck",
       "init_jumlah_photo": 100
     },
     {
-      "name": "bunny",
+      "name": "Bunny",
       "init_jumlah_photo": 100
     },
     {
-      "name": "princess",
+      "name": "Princess",
       "init_jumlah_photo": 50
     }
   ],
